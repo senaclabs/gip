@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8461754.css",
+    "main.js": "/static/js/main.a4eb1115.js",
+    "static/js/453.6b65617f.chunk.js": "/static/js/453.6b65617f.chunk.js",
+    "static/media/BackgroundLogin.jpeg": "/static/media/BackgroundLogin.a50bbe6ea38dac2ad49e.jpeg",
+    "static/media/LogoSenac.png": "/static/media/LogoSenac.89357fa89ee5be4d6904.png",
+    "static/media/Labs.svg": "/static/media/Labs.3c8b6b66abf33a8dd19197bb8807fccc.svg",
+    "static/media/PertenSerLogo.svg": "/static/media/PertenSerLogo.7248fe6a1c88744f93dae1e37194729c.svg",
+    "index.html": "/index.html",
+    "main.d8461754.css.map": "/static/css/main.d8461754.css.map",
+    "main.a4eb1115.js.map": "/static/js/main.a4eb1115.js.map",
+    "453.6b65617f.chunk.js.map": "/static/js/453.6b65617f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8461754.css",
+    "static/js/main.a4eb1115.js"
+  ]
+}
